@@ -11,3 +11,5 @@ I use Java for LeetCode problems.
 - Median of Two Sorted Arrays
 - Remove Duplicates from Sorted Array
 - Remove Elements from Array
+- Merge Sorted Array
+- Next Permutation

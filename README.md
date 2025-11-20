@@ -13,3 +13,4 @@ I use Java for LeetCode problems.
 - Remove Elements from Array
 - Merge Sorted Array
 - Next Permutation
+- Search in Rotated Sorted Array

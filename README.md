@@ -14,3 +14,4 @@ I use Java for LeetCode problems.
 - Merge Sorted Array
 - Next Permutation
 - Search in Rotated Sorted Array
+- Find First and Last Position of Elements in Sorted Array
